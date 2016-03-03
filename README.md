@@ -63,3 +63,6 @@ For a full list of sponsors, see
 MIT
 
 <img src="https://ga-beacon.appspot.com/UA-58928488-2/registrator/readme?pixel" />
+## 补充
+master分支加入改动兼容nginx-upsync
+下载打包成镜像即可
